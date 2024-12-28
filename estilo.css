@@ -1,0 +1,84 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #59211E;
+}
+.secao{
+width: 700px;
+margin: 20px auto;
+ 
+}
+.imagem-logo{
+    width: 300px;
+}
+.linha-superior{
+    width: 700px;
+    border-bottom: 1px solid #de8e37; 
+    margin-bottom: 50px;
+}
+a, .link-destaque, .link-sobre{
+    text-decoration: none; 
+    font-weight: bold;
+    color: whitesmoke;
+}
+.link-destaque, .link-sobre {
+    background-color: #F2A22A;
+    padding: 10px;
+    margin: 12px;
+    border: 2px solid black;
+} 
+.link-sobre{ 
+   padding: 10px 20px;
+}
+.paragrafo{
+    margin-bottom: 80px;
+}
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+}
+h2{
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+.foto-produtos{
+    width: 700px;
+    border: 2px solid black;
+}
+.secao-produtos{
+    background-color: #DE8E37;
+    padding-top: 15px;
+    padding-bottom:15px;
+    color:#59211E;
+    border: 2px solid black;
+}
+.secao-produtos h3{
+font-size: 25px;
+}
+.secao-produtos h4{
+font-size: 20px;
+margin-bottom: 10px;
+}
+.secao-produtos p{
+width: 500px;
+margin: 0 auto;
+line-height: 30px;
+}
+.secao-produtos img{
+width: 400px;
+margin-top:30px;
+
+} 
+.foto-bolos{
+    margin-bottom: 30px;
+}
+
+.redes{
+    margin-bottom: 40px;
+    height: 45px;
+}
+
